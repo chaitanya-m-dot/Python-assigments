@@ -14,4 +14,15 @@ First i took 2 variables and used input function to collect data from the user a
 by checking if the remainder of the number taken from the user is 0, if it is 0 then the number is a even number if not the else block is executed
 
 Task 2: 
+
 By puttin sum=0 , the intial value is 0 then using for loop the first iterative value is 1 and last is 50 so use n-1 so i used 51 the by using sum+=1 the value moves to next iteration till 50 and the sum is printed
+
+ Assignment 3
+ Task 1:
+
+ by calling the function and using recursion the if block is used for the factorial of 0 and 1 as it is less than 2 and the else block for every other number by taking the number from user and storing it in num variable and then the result is doing factorial then printing i had to put extra variable as num because when i tried to calculate factorial of 0 the output was showing 1 in str(num).
+
+ Task 2:
+ 
+ importing the math module and putting the datatype for the given, and printing it.
+ 
