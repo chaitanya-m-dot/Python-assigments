@@ -25,4 +25,11 @@ By puttin sum=0 , the intial value is 0 then using for loop the first iterative 
  Task 2:
  
  importing the math module and putting the datatype for the given, and printing it.
+
+  Assignment 4
+ Task 1:
+
+using with blocked opened and read the file and printed it as line 1 and 2
+Task2:
+first wrote the text adn closed then again opened to append then closed and read the whole file.
  
