@@ -32,4 +32,11 @@ By puttin sum=0 , the intial value is 0 then using for loop the first iterative 
 using with blocked opened and read the file and printed it as line 1 and 2
 Task2:
 first wrote the text adn closed then again opened to append then closed and read the whole file.
+
+
+  Assignment 4
+ Task 1:
+first put  a dictionary then a variable for input function and thee used if else to check if the inputed name is in the dictionary 
+
+Task 2: first put a list then used function print the desired numbers
  
